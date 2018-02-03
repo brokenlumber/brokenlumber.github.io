@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,500');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400');
 
 html{
     background-color: #2A3236;
@@ -30,7 +30,7 @@ nav{
     background-color: #21282B;
     color: #108D7D;
     display: block;
-    font-size: 40px;
+    font-size: 35px;
     line-height: 100px;
     text-align: center;
 }
