@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,500');
+
+html{
+    background-color: #2A3236;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* body{
+  width: 100%;
+  max-width: 1080px
+} */
+
+nav{
+    height: 350px;
+    width: 96%;
+    margin: 0px auto;
+    background-image: url(logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 30px;
+}
+
+#button{
+    width: 80%;
+    height: 200px;
+    border: 1px solid #E85C2B;
+    margin: 25px 10% 25px 10%;
+    background-color: #21282B;
+    color: #108D7D;
+    display: block;
+    font-size: 80px;
+    line-height: 200px;
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+}
