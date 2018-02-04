@@ -4,6 +4,7 @@ html{
     background-color: #2A3236;
     color: white;
     font-family: 'Ubuntu', sans-serif;
+    border-bottom: 3px solid #E85C2B;
 }
 
 /* body{
